@@ -14,13 +14,11 @@ I'm a passionate Bachelor Studying in Scaler School Of Technology And Indian Ins
 
 🔭 I’m currently working on Some Cool Projects make sure to check them out.
 
-👯 I’m looking to collaborate on OpenSources.
+😀 I’m looking to collaborate on OpenSources.
 
 🤔 I’m looking for your help for engaging with my repos and projects.
 
 📫 How to reach me: Virulkaryashed@gmail.com
-
-😄 Pronouns: He/Him
 
 🛠️ My Tech Stack
 

@@ -18,7 +18,7 @@ I'm a passionate Bachelor Studying in Scaler School Of Technology And Indian Ins
 
 🤔 I’m looking for your help for engaging with my repos and projects.
 
-📫 How to reach me: Virulkaryashed@gmail.com
+📫 How to reach me: Virulkarnyash@gmail.com
 
 🛠️ My Tech Stack
 

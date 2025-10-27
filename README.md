@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yash Virulkar 👋</h1>
 
 <p align="center">
-<a href="https://github.com/Viscous106" target="_blank" rel="noopener"><img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=radical&row=1&column=7" alt="github-trophy" /></a>
+<a href="https://github.com/Viscous106" target="_blank" rel="noopener"><img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=radical&row=1&column=7" /></a>
 </p>
 
 <p align="center">

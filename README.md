@@ -43,18 +43,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Viscous106&show_icons=true&theme=radical&count_private=true" alt="Viscous106's Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viscous106&layout=compact&theme=radical&langs_count=8" alt="Viscous106's Top Languages" /></td>
-    </tr>
-  </table>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viscous106&theme=radical&hide_border=true" alt="Viscous106's Streak" />
 </div>
-
 <br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=blue&style=flat" alt="Viscous106" />
 </p>

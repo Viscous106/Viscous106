@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Viscous106">
-    <img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=radical&row=1&column=7&margin-w=15&margin-h=15" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://viscous106.github.io/Projects/webdevProjects/Portfolio/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
@@ -30,13 +24,11 @@
 ---
 
 ### 👨‍💻 About Me
-
 - 🎓 I am currently pursuing a **BS Degree in Data Science** at **IIT Madras** and Computer Science at **Scaler School of Technology**.
-- 💻 My passion lies in **Web Development** and **System Configuration** (I use Arch btw).
+- 💻 My passion lies in **Automisation** and **System Configuration** (I use Arch btw).
 - 🔭 I’m currently working on **Full Stack Projects**.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.
-- ⚡ **Fun fact:** I love turning complex problems into elegant code... and customizing my Hyprland config.
-
+- ⚡I love turning complex problems into elegant code.
 ---
 
 ### 🛠️ Tech Stack & Tools

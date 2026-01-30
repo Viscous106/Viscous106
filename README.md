@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Viscous106">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IITM+BS+Student;Scaler+School+of+Technology;Arch+Linux+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IITM+BS+Student;Scaler+School+of+Technology;Arch+Linux+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,8 +34,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,arch,kali&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,neovim,arch,kali,bash,golang,django,react" /><br>
 </p>
 
 ---
@@ -46,6 +45,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viscous106&theme=radical&hide_border=true" alt="Viscous106's Streak" />
 </div>
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=blue&style=flat" alt="Viscous106" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viscous106&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=radical" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viscous106&theme=radical" alt="Productive time" />
+</div>

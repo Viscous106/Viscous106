@@ -42,10 +42,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viscous106&theme=radical&hide_border=true" alt="Viscous106's Streak" />
-</div>
-<br>
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viscous106&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=radical" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=radical" alt="Most commit language" />

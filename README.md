@@ -24,8 +24,9 @@
 ---
 
 ### 👨‍💻 About Me
+
 - 🎓 I am currently pursuing a **BS Degree in Data Science** at **IIT Madras** and Computer Science at **Scaler School of Technology**.
-- 💻 My passion lies in **Automisation** and **System Configuration** (I use Arch btw).
+- 💻 My passion lies in **Automation** and **System Configuration** (I use Arch btw).
 - 🔭 I’m currently working on **Full Stack Projects**.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.
 - ⚡I love turning complex problems into elegant code.

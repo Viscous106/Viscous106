@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://viscous106.github.io/Projects/webdevProjects/Portfolio/index.html" target="_blank">
+  <a href="https://viscous106.github.io/Projects/plainWebDevProjects/Portfolio/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/yash-virulkar-338418329/" target="_blank">

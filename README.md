@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Viscous106">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IITM+BS+Student;Scaler+School+of+Technology;Arch+Linux+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=IITM+Diploma+level+Student;1st+year+undergad+at+Scaler+School+of+Technology;I+Use+Arch+BTW;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 

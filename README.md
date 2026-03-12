@@ -43,8 +43,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viscous106&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=radical" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viscous106&theme=radical" alt="Productive time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viscous106&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viscous106&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Viscous106&theme=github_dark&hide_border=true&show_icons=true" alt="Streak Stats">
+  <a href="https://github.com/Viscous106">
+    <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
 </div>

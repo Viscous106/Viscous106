@@ -26,6 +26,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am currently pursuing a **BS Degree in Data Science** at **IIT Madras** and Computer Science at **Scaler School of Technology**.
+- I am a core member of Open Source Club at Scaler School Of Technology.
+And a member of ai/ml club as well.
 - 💻 My passion lies in **Automation** and **System Configuration** (I use Arch btw).
 - 🔭 I’m currently working on **Full Stack Projects**.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.

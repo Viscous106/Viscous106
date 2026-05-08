@@ -55,7 +55,7 @@ And a member of ai/ml club as well.
   <img src="https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="GitHub Stats">
   <img src="https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true" alt="Top Languages">
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Viscous106&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=Viscous106&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak">
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
   <br>

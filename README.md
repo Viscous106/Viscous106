@@ -66,19 +66,3 @@ And a member of ai/ml club as well.
     </a>
   </p>
 </div>
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Viscous106/githubStats">
-    <img src="https://coolgithubstats.netlify.app/api/pin?username=Viscous106&repo=githubStats&theme=catppuccin_mocha&hide_border=true" alt="githubStats">
-  </a>
-  <a href="https://github.com/Viscous106/codingNotes">
-    <img src="https://coolgithubstats.netlify.app/api/pin?username=Viscous106&repo=codingNotes&theme=catppuccin_mocha&hide_border=true" alt="codingNotes">
-  </a>
-  <a href="https://github.com/Viscous106/Orkflow">
-    <img src="https://coolgithubstats.netlify.app/api/pin?username=Viscous106&repo=Orkflow&theme=catppuccin_mocha&hide_border=true" alt="Orkflow">
-  </a>
-</div>

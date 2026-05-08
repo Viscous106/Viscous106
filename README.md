@@ -43,9 +43,7 @@ And a member of ai/ml club as well.
 ---
 
 ### 📊 GitHub Analytics
-  <p>
-    <a href="https://github.com/Viscous106">
-      <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-    </a>
-  </p>
+  ![GitHub Stats](https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true)
+  ![Top Langs](https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha)
+
 </div>

@@ -43,11 +43,6 @@ And a member of ai/ml club as well.
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viscous106&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viscous106&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Viscous106&theme=github_dark&hide_border=true&show_icons=true" alt="Streak Stats">
   <p>
     <a href="https://github.com/Viscous106">
       <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">

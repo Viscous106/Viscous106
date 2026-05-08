@@ -33,12 +33,6 @@ And a member of ai/ml club as well.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.
 - ⚡I love turning complex problems into elegant code.
 
-### Currently
-
-- Building custom GitHub stats cards and profile tooling.
-- Working with full-stack systems, automation, and open source workflows.
-- Exploring React, Django, Go, Docker, Linux, and AI/ML foundations.
-
 ---
 
 ### 🛠️ Tech Stack & Tools

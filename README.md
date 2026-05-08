@@ -32,6 +32,13 @@ And a member of ai/ml club as well.
 - 🔭 I’m currently working on **Full Stack Projects**.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.
 - ⚡I love turning complex problems into elegant code.
+
+### Currently
+
+- Building custom GitHub stats cards and profile tooling.
+- Working with full-stack systems, automation, and open source workflows.
+- Exploring React, Django, Go, Docker, Linux, and AI/ML foundations.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -45,8 +52,12 @@ And a member of ai/ml club as well.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true" alt="GitHub Stats">
-  <img src="https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha" alt="Top Languages">
+  <img src="https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true" alt="Top Languages">
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Viscous106&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
   <br>
   <img src="https://raw.githubusercontent.com/Viscous106/Viscous106/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
   <p>
@@ -54,4 +65,20 @@ And a member of ai/ml club as well.
       <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
     </a>
   </p>
+</div>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Viscous106/githubStats">
+    <img src="https://coolgithubstats.netlify.app/api/pin?username=Viscous106&repo=githubStats&theme=catppuccin_mocha&hide_border=true" alt="githubStats">
+  </a>
+  <a href="https://github.com/Viscous106/codingNotes">
+    <img src="https://coolgithubstats.netlify.app/api/pin?username=Viscous106&repo=codingNotes&theme=catppuccin_mocha&hide_border=true" alt="codingNotes">
+  </a>
+  <a href="https://github.com/Viscous106/Orkflow">
+    <img src="https://coolgithubstats.netlify.app/api/pin?username=Viscous106&repo=Orkflow&theme=catppuccin_mocha&hide_border=true" alt="Orkflow">
+  </a>
 </div>

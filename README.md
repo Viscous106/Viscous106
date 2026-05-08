@@ -60,9 +60,4 @@ And a member of ai/ml club as well.
   <img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
   <br>
   <img src="https://raw.githubusercontent.com/Viscous106/Viscous106/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
-  <p>
-    <a href="https://github.com/Viscous106">
-      <img src="https://komarev.com/ghpvc/?username=Viscous106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-    </a>
-  </p>
 </div>

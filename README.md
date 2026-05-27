@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yash Virulkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+j<h1 align="center">Hi there, I'm Yash Virulkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://github.com/Viscous106">
@@ -26,10 +26,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am currently pursuing a **BS Degree in Data Science** at **IIT Madras** and Computer Science at **Scaler School of Technology**.
-- I am a core member of Open Source Club at Scaler School Of Technology.
-And a member of ai/ml club as well.
+- I am a core member of Open Source Club at Scaler School Of Technology and a club member of ai/ml club as well.
 - 💻 My passion lies in **Automation** and **System Configuration** (I use Arch btw).
-- 🔭 I’m currently working on **Full Stack Projects**.
+- 🔭 I’m currently working on **Full Stack **.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.
 - ⚡I love turning complex problems into elegant code.
 

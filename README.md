@@ -52,12 +52,12 @@ And a member of ai/ml club as well.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
   <br>
   <img src="https://streak-stats.demolab.com?user=Viscous106&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Viscous106&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viscous106&theme=catppuccin-mocha&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
   <br>
   <img src="https://raw.githubusercontent.com/Viscous106/Viscous106/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
 </div>

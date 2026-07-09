@@ -37,7 +37,7 @@ And a member of ai/ml club as well.
 
 - Building custom GitHub stats cards and profile tooling.
 - Working with full-stack systems, automation, and open source workflows.
-- Exploring React, Django, Go, Docker, Linux, and AI/ML foundations.
+- Exploring Rust, Django, Go, Docker, Linux, and AI/ML foundations.
 
 ---
 

@@ -47,7 +47,7 @@ And a member of ai/ml club as well.
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,neovim,arch,nix,bash,golang,django,react,docker&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,neovim,arch,nix,bash,golang,django,react,docker,flutter,darht&perline=8" alt="Tech Stack" />
 </div>
 
 ---

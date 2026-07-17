@@ -45,11 +45,9 @@ And a member of ai/ml club as well.
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, js, typescript, python, java, go, rust, sql, bash, git, github, neovim, arch, nix, docker, kubernetes, ci/cd, django, fastapi, react, flutter, dart, postgresql, redis, rest apis, websockets,  claude code,cursor, copilot, render&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,go,rust,postgres,redis,django,fastapi,react,flutter,dart,docker,kubernetes,git,github,neovim,arch,nix&perline=8" alt="Tech Stack" />
 </div>
-
 
 ---
 

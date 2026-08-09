@@ -52,10 +52,14 @@ And a member of ai/ml club as well.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viscous106&theme=tokyonight" alt="GitHub Profile Summary" width="100%">
   <br>
-  <img src="https://streak-stats.demolab.com?user=Viscous106&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak">
+  <img src="https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=tokyonight" alt="Most Committed Languages">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=tokyonight" alt="Repos per Language">
+  <img src="https://streak-stats.demolab.com?user=Viscous106&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viscous106&theme=catppuccin-mocha&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
   <br>

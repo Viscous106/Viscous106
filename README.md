@@ -53,9 +53,9 @@ And a member of ai/ml club as well.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=tokyonight" alt="Most Committed Languages">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=tokyonight" alt="Repos per Language">
-  <img src="https://streak-stats.demolab.com?user=Viscous106&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://coolgithubstats.netlify.app/api/streak?username=Viscous106&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viscous106&theme=catppuccin-mocha&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
+  <img src="https://githubactivitygraph.vercel.app/graph?username=Viscous106&theme=catppuccin-mocha&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
   <br>
   <img src="https://raw.githubusercontent.com/Viscous106/Viscous106/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
 </div>

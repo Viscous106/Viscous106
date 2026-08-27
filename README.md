@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Viscous106">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=IITM+Diploma+level+Student;2nd+year+Scaler+School+of+Technology;I+Use+Arch+BTW;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=IITM+Diploma+level+Student;2nd+year+Scaler+School+of+Technology;I+Use+Nix+BTW;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 - 🎓 I am currently pursuing a **BS Degree in Data Science** at **IIT Madras** and Computer Science at **Scaler School of Technology**.
 - I am a core member of Open Source Club at Scaler School Of Technology.
 And a member of ai/ml club as well.
-- 💻 My passion lies in **Automation** and **System Configuration** (I use Arch btw).
+- 💻 My passion lies in **Automation** and **System Configuration** (I use Nix BTW).
 - 🔭 I’m currently working on **Full Stack Projects**.
 - 🤝 I’m looking to collaborate on **Open Source** repositories.
 - ⚡I love turning complex problems into elegant code.

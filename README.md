@@ -48,13 +48,13 @@ And a member of ai/ml club as well.
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viscous106&theme=tokyonight" alt="GitHub Profile Summary" width="100%">
   <br>
-  <img src="https://coolgithubstats.netlify.app/api?username=Viscous106&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://coolgithubstats.netlify.app/api/top-langs?username=Viscous106&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viscous106&theme=tokyonight" alt="GitHub Stats" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viscous106&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="200">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=tokyonight" alt="Most Committed Languages" height="200">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=tokyonight" alt="Repos per Language" height="200">
   <br>
-  <img src="https://coolgithubstats.netlify.app/api/streak?username=Viscous106&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Viscous106&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   <br>
   <img src="https://raw.githubusercontent.com/Viscous106/Viscous106/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
 </div>

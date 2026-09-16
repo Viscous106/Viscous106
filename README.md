@@ -46,13 +46,13 @@ And a member of ai/ml club as well.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viscous106&theme=tokyonight" alt="GitHub Profile Summary" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viscous106&theme=tokyonight&v=1" alt="GitHub Profile Summary" width="100%">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viscous106&theme=tokyonight" alt="GitHub Stats" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viscous106&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viscous106&theme=tokyonight&v=1" alt="GitHub Stats" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viscous106&theme=tokyonight&utcOffset=5.5&v=1" alt="Productive Time" height="200">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=tokyonight" alt="Most Committed Languages" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=tokyonight" alt="Repos per Language" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viscous106&theme=tokyonight&v=1" alt="Most Committed Languages" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viscous106&theme=tokyonight&v=1" alt="Repos per Language" height="200">
   <br>
   <img src="https://streak-stats.demolab.com/?user=Viscous106&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   <br>
